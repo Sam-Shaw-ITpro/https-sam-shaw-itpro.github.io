@@ -1,0 +1,8 @@
+#navStyle {
+background-color: var(--color4) !important;
+font-family: var(--font1);
+}
+
+#listStyle {
+    margin-left: 60%;
+}

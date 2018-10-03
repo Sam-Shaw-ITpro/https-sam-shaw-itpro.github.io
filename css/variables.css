@@ -1,12 +1,8 @@
 :root {
- --red: #e80d0d;
- --orange: #f98500;
- --yellow: #ffc600;
- --green: #10a503;
- --blue-green: #0ed6a4;
- --blue: #0071b2;
- --purple: #6a00b2;
- --brown: #8c7a51;
- --grey: #53565A;
- --black: #272727;
+ --color1: #BDC8E2;
+ --color2: #8A9CC4;
+ --color3: #3E558B;
+--color4: #263E74;
+--font1: 'K2D' block;
+--boldFont: "Passion One";
 }

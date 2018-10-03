@@ -1,0 +1,8 @@
+#jumboStyle {
+background: url('../assest/steve-johnson-1079781-unsplash.jpg') no-repeat center;
+ background-size: cover;
+ color: white;
+ text-align: center;
+ font-family: var(--boldFont);
+ font-size: 100px;
+}
