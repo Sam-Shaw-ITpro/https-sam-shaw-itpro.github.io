@@ -4,3 +4,36 @@
     color: var(--color4);
 
 }
+
+#aboutLeft {
+    float: left;
+    width: 50%;
+    text-align: left;
+    padding: 120px 30px 30px 30px;
+    font-size: 300%;
+}
+
+#aboutRight {
+    float: right;
+    width: 50%;
+    padding: 140px 30px 30px 30px;
+    text-align: center;
+
+}
+
+.aboutMiddle {
+    margin: auto;
+    float: right;
+    width: 100%;
+    padding: 75px 30px 30px 30px;
+    text-align: left;
+    /* position: relative; */
+}
+
+.aboutGif {
+    margin: auto;
+    width: 100%
+    padding: 0px 50px 0px 50px;
+    text-align: center;
+    /* position: relative; */
+}

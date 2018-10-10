@@ -1,3 +1,14 @@
 body {
     background-color: var(--color1);
+    font-family: var(--font2);
+    color: var(--color3);
+    
 }
+
+
+.container {
+    width: 100%;
+
+}
+
+

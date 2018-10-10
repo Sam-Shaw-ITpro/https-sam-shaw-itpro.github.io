@@ -1,8 +1,9 @@
 :root {
- --color1: #BDC8E2;
- --color2: #8A9CC4;
- --color3: #3E558B;
---color4: #263E74;
+ --color1: rgb(228, 228, 228);
+ --color2: rgb(180, 180, 180);
+ --color3: rgb(83, 83, 83);
+--color4: black;
 --font1: 'K2D' block;
 --boldFont: "Passion One";
+--font2: "Francois One";
 }
